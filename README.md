@@ -19,6 +19,7 @@ Model Evaluation: Assessing the model's performance using accuracy, loss, and co
 Dataset
 
 IMDB Dataset: This dataset contains 50,000 reviews labeled as positive or negative. It is freely available for download and can be loaded into the project using the provided CSV file.
+
 Results
 
 Accuracy: The model achieves around 85% accuracy on the test set (modify according to your results).
